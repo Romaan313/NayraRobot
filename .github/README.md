@@ -5,14 +5,14 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/Revenger2901/NyraRobot/blob/master/NyraRobot/resources/fglitch.gif">
+  <img src="https://github.com/Romaan313/NayraRobot/blob/main/.github/README.md">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ɴʏʀᴀ ʀᴏʙᴏᴛ](https://t.me/Silent_Robo_Bot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝙉𝘼𝙔𝙍𝘼 ✘ 𝙍𝙊𝘽𝙊](https://t.me/Nayra_Robot_bot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/Revenger2901/NyraRobot/stargazers"><img src="https://img.shields.io/github/stars/Revenger2901/NyraRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Romaan313/NayraRobot/blob/main/.github/README.md"><img src="https://img.shields.io/github/stars/Revenger2901/NyraRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/Revenger2901/NyraRobot/network/members"> <img src="https://img.shields.io/github/forks/Revenger2901/NyraRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/Revenger2901/NyraRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
@@ -25,7 +25,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ɴʏʀᴀ ʀᴏʙ�
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://te.legra.ph/file/a6df7cf5495c2e9213901.jpg">
+  <img src="https://telegra.ph/file/f87393c00c8645625ba1f.jpg">
 </p>
 
 <p align="center">
